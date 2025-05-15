@@ -64,8 +64,6 @@
 
 ## 🌐 ¿Nos conectamos?
 
-## 🌐 ¿Nos conectamos?
-
 <p align="center">
   <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -73,10 +71,11 @@
   <a href="https://tuportafolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
-  <a href="mailto:samy.munoz.s@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-samy.munoz.s@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Inbox-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
