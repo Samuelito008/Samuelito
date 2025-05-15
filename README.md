@@ -1,8 +1,13 @@
-# 👋 ¡Hola! Soy **Samuel** 😎
+<h1 align="center">👋 ¡Hola! Soy <span style="color:#00BFFF;">Samuel</span></h1>
 
-¡Bienvenido a mi espacio en GitHub! Soy un apasionado del desarrollo y la tecnología. Me encanta aprender cosas nuevas, escribir código limpio y construir soluciones que marquen la diferencia.
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+</p>
 
----
+<p align="center">
+  Desarrollador apasionado por el código, los retos y la creatividad.  
+  <br> Siempre aprendiendo algo nuevo 💡, siempre construyendo algo bacano 💻.
+</p>
 
 ## 🚀 Tecnologías que manejo
 
