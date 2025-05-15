@@ -4,6 +4,9 @@
   <img src="https://raw.githubusercontent.com/Samuelito008/Samuelito/main/ChatGPT%20Image%2015%20may%202025%2C%2016_58_59.png" alt="Samuel Banner" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
 
 <p align="center">
   🧑‍💻 <strong>Desarrollador en formación, soñador en acción</strong>.  
