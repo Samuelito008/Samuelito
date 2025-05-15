@@ -53,7 +53,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)
 [![Portfolio](https://img.shields.io/badge/Portafolio-222?style=flat-square&logo=githubpages&logoColor=white)](https://tuportafolio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tuemail@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:samy.munoz.s@gmail.com)
+
 
 ---
 
