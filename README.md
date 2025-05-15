@@ -71,7 +71,8 @@
   <a href="https://tuportafolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=githubpages&logoColor=white" />
   </a>
-  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=samy.munoz.s@gmail.com" target="_blank">
+   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=samy.munoz.s@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Escríbeme-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
