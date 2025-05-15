@@ -58,10 +58,11 @@
 ## 📊 Estadísticas de GitHub
 
 <p align="center" style="margin-top: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelitoDev&show_icons=true&theme=tokyonight" alt="Samuelito GitHub Stats" width="360" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(20, 30, 48, 0.4);" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Samuelito008&show_icons=true&theme=tokyonight" alt="Samuelito GitHub Stats" width="360" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(20, 30, 48, 0.4);" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelitoDev&layout=compact&theme=tokyonight" alt="Top Langs" width="360" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(20, 30, 48, 0.4);" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuelito008&layout=compact&theme=tokyonight" alt="Top Langs" width="360" style="border-radius: 12px; box-shadow: 0 8px 16px rgba(20, 30, 48, 0.4);" />
 </p>
+
 
 ---
 
