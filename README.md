@@ -1,70 +1,85 @@
-┌──────────────────────────────────────────────┐
-│              ¡Hola, soy Samuelito! 😎        │
-│      Bienvenido a mi mundo de código 💻       │
-└──────────────────────────────────────────────┘
-
+<h1 align="center">👋 ¡Hey! Soy <strong>Samuelito</strong> 😎</h1>
+<h3 align="center">Bienvenido a mi mundo de código, ideas locas y proyectos con propósito 💡</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
 </p>
 
 <p align="center">
-  Desarrollador apasionado por el código, los retos y la creatividad.  
-  <br> Siempre aprendiendo algo nuevo 💡, siempre construyendo algo bacano 💻.
+  🧑‍💻 Desarrollador en formación, soñador en acción.  
+  <br/>Me apasiona transformar líneas de código en soluciones que impactan.  
+  <br/>Desde el <strong>SENA</strong> al mundo 🚀, siempre aprendiendo, siempre creando.
 </p>
 
-## 🚀 Tecnologías que manejo
+---
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+## 🛠️ Tecnologías que me encantan usar
+
+<div align="center">
+
+![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
+
+</div>
 
 ---
 
-## 📚 Actualmente aprendiendo
+## 📚 Lo que estoy aprendiendo ahora mismo
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<div align="center">
 
----
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-## 🧠 Intereses
-
-- 🔍 Desarrollo Full Stack
-- ⚙️ Arquitectura de software
-- 🤖 Inteligencia Artificial y Machine Learning
-- ☁️ Cloud Computing y DevOps
-- 🎮 Desarrollo de videojuegos (cuando queda tiempito 😅)
+</div>
 
 ---
 
-## 📈 Estadísticas de GitHub
+## 🤩 Un poquito más sobre mí
+
+- 🐱‍💻 Estudiante de **Análisis y Desarrollo de Software en el SENA**  
+- 💥 Me motiva crear cosas que ayuden de verdad  
+- 🧠 Fan del código limpio, el aprendizaje constante y los retos técnicos  
+- 🎨 Amo combinar desarrollo con creatividad visual  
+- 🌍 Quiero usar el código para cambiar el mundo, aunque sea línea por línea  
+
+---
+
+## 📈 Mis estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SamuelitoDev&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SamuelitoDev&show_icons=true&theme=tokyonight" alt="Samuelito GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelitoDev&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SamuelitoDev&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
 ---
 
+## 🌐 ¿Nos conectamos?
 
-## 🌐 Conéctate conmigo
+<p align="center">
+  <a href="https://www.linkedin.com/in/tuusuario" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://tuportafolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-000?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
+  <a href="mailto:samy.munoz.s@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)
-[![Portfolio](https://img.shields.io/badge/Portafolio-222?style=flat-square&logo=githubpages&logoColor=white)](https://tuportafolio.com)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=samy.munoz.s@gmail.com)
+---
 
+> _"El código no solo resuelve problemas. También cuenta historias, crea mundos y expresa quién eres."_ 🎨💻  
+> — **Samuelito**
 
 
 
