@@ -86,5 +86,3 @@
 <p align="center" style="margin-top: 30px;">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" style="border-radius: 10px; box-shadow: 0 8px 15px rgba(108, 194, 74, 0.5);" />
 </p>
-
-
