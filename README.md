@@ -1,7 +1,7 @@
 <h1 align="center">👋 ¡Hey! Soy <strong>Samuel</strong> 😎</h1>
 <h3 align="center">Bienvenido a mi mundo de código, ideas locas y proyectos con propósito 💡</h3>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/SamuelitoDev/SamuelitoDev/main/ruta/a/la/imagen.png" alt="Samuel Banner" />
+  <img src="[https://raw.githubusercontent.com/SamuelitoDev/SamuelitoDev/main/ruta/a/la/imagen.png](https://github.com/Samuelito008/Samuelito/blob/main/ChatGPT%20Image%2015%20may%202025%2C%2016_58_59.png)" alt="Samuel Banner" />
 </p>
 
 <p align="center">
