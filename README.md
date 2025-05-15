@@ -53,7 +53,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuusuario)
 [![Portfolio](https://img.shields.io/badge/Portafolio-222?style=flat-square&logo=githubpages&logoColor=white)](https://tuportafolio.com)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:samy.munoz.s@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:samy.munoz.s@gmail.com?subject=¡Hola%20Samuelito!&body=Te%20escribo%20porque%20me%20interesó%20tu%20perfil%20en%20GitHub.%20¡Hablemos!)
+
 
 
 ---
