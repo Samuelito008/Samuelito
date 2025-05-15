@@ -6,14 +6,14 @@
 </p>
 
 <p align="center">
-  🧑‍💻 Desarrollador en formación, soñador en acción.  
-  <br/>Me apasiona transformar líneas de código en soluciones que impactan.  
+  🧑‍💻 <strong>Desarrollador en formación, soñador en acción</strong>.  
+  <br/>Apasionado por transformar ideas en soluciones funcionales y creativas.  
   <br/>Desde el <strong>SENA</strong> al mundo 🚀, siempre aprendiendo, siempre creando.
 </p>
 
 ---
 
-## 🛠️ Tecnologías que me encantan usar
+## ⚒️ Tecnologías que uso con gusto
 
 <div align="center">
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 📚 Lo que estoy aprendiendo ahora mismo
+## 🚀 Actualmente explorando
 
 <div align="center">
 
@@ -42,17 +42,17 @@
 
 ---
 
-## 🤩 Un poquito más sobre mí
+## 🧠 Sobre mí
 
-- 🐱‍💻 Estudiante de **Análisis y Desarrollo de Software en el SENA**  
-- 💥 Me motiva crear cosas que ayuden de verdad  
-- 🧠 Fan del código limpio, el aprendizaje constante y los retos técnicos  
-- 🎨 Amo combinar desarrollo con creatividad visual  
-- 🌍 Quiero usar el código para cambiar el mundo, aunque sea línea por línea  
+- 🎓 Estudiante de **Análisis y Desarrollo de Software** en el SENA  
+- 💡 Creo en el poder del código para cambiar realidades  
+- 🧼 Amante del **código limpio** y las **buenas prácticas**  
+- 🎨 Me encanta cuando la lógica se junta con el diseño  
+- 🌍 Mi meta: impactar vidas con tecnología, una línea a la vez
 
 ---
 
-## 📈 Mis estadísticas de GitHub
+## 📊 Estadísticas de GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SamuelitoDev&show_icons=true&theme=tokyonight" alt="Samuelito GitHub Stats" />
@@ -76,25 +76,10 @@
   </a>
 </p>
 
-
-
-
 ---
 
-> _"El código no solo resuelve problemas. También cuenta historias, crea mundos y expresa quién eres."_ 🎨💻  
-> — **Samuel**
-
-
-
-
-
-
-
----
-
-> _“El código es mi forma de arte.”_ 🎨
-
----
+> _"El código no solo resuelve problemas. También cuenta historias, crea mundos y expresa quién eres."_  
+> — **Samuel** 🎨💻
 
 
 
