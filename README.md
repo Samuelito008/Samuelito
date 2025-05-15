@@ -49,7 +49,6 @@
 
 ---
 
-## 🌐 Conéctate conmigo
 
 ## 🌐 Conéctate conmigo
 
