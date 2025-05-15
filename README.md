@@ -1,4 +1,4 @@
-<h1 align="center">👋 ¡Hey! Soy <strong>Samuelito</strong> 😎</h1>
+<h1 align="center">👋 ¡Hey! Soy <strong>Samuel</strong> 😎</h1>
 <h3 align="center">Bienvenido a mi mundo de código, ideas locas y proyectos con propósito 💡</h3>
 
 <p align="center">
@@ -82,7 +82,7 @@
 ---
 
 > _"El código no solo resuelve problemas. También cuenta historias, crea mundos y expresa quién eres."_ 🎨💻  
-> — **Samuelito**
+> — **Samuel**
 
 
 
